@@ -1,3 +1,3 @@
 # Calculadora
 
-![Texto Alternativo](foto calculadora.png)
+<img src="foto calculadora.png" alt="Logo da Minha Empresa">
